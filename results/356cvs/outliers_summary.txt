@@ -1,0 +1,6 @@
+
+=== Outliers Summary ===
+
+|   Index | Column     |   Outlier Count | Percentage   |
+|---------|------------|-----------------|--------------|
+|       0 | Product_ID |             107 | 1.44%        |

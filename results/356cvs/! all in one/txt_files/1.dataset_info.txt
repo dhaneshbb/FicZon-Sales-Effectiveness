@@ -1,0 +1,35 @@
+
+=== Dataset Information ===
+
+| Info                      | Details                 |
+|---------------------------|-------------------------|
+| Total Shape               | 7422 rows, 9 columns    |
+| Range Index               | 0 to 7421, 7422 entries |
+| Columns                   | 9 columns               |
+| Memory Usage              | 4061836 bytes           |
+| Total Duplicated Rows     | 4 duplicates            |
+| Missing Values Count      | 1966 missing values     |
+| Missing Values Percentage | 2.94% missing values    |
+
+Data types with counts of columns:
+
+| Data Type   |   Count of Columns |
+|-------------|--------------------|
+| object      |                  8 |
+| float64     |                  1 |
+
+Numerical and Categorical Variable Counts:
+
+| Variable Type         |   Count |
+|-----------------------|---------|
+| Numerical Variables   |       1 |
+| Categorical Variables |       8 |
+
+Detailed list of duplicated rows (including indices):
+
+|     | Created          |   Product_ID | Source   | Mobile   | EMAIL   | Sales_Agent    |   Location | Delivery_Mode   | Status   |
+|-----|------------------|--------------|----------|----------|---------|----------------|------------|-----------------|----------|
+| 129 | 10-11-2018 20:27 |          nan | Website  | XXXXXXX  | #VALUE! | Sales-Agent-10 |        nan | Mode-5          | Open     |
+| 130 | 10-11-2018 20:27 |          nan | Website  | XXXXXXX  | #VALUE! | Sales-Agent-10 |        nan | Mode-5          | Open     |
+| 134 | 10-11-2018 20:17 |          nan | Website  | XXXXXXX  | #VALUE! | Sales-Agent-10 |        nan | Mode-5          | Open     |
+| 135 | 10-11-2018 20:17 |          nan | Website  | XXXXXXX  | #VALUE! | Sales-Agent-10 |        nan | Mode-5          | Open     |

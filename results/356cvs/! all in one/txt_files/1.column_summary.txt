@@ -1,0 +1,14 @@
+
+======== Column Summary: ===========
+
+Index Attribute                      Data Type       Range                          Distinct Count
+----- ------------------------------ --------------- ------------------------------ ---------------
+1     Created                        object          N/A                            6752
+2     Source                         object          N/A                            25
+3     Mobile                         object          N/A                            486
+4     EMAIL                          object          N/A                            883
+5     Sales_Agent                    object          N/A                            12
+6     Location                       object          N/A                            17
+7     Delivery_Mode                  object          N/A                            5
+8     Status                         object          N/A                            11
+9     Product_ID                     float64         0.0 - 28.0                     29

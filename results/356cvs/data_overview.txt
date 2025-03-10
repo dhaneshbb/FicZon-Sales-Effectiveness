@@ -1,0 +1,22 @@
+
+=== Data Overview Table ===
+
+
+Overview for Data Type: float64
+
+|    | Column Name   | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|---------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | Product_ID    | float64     |             29 |              58 |             0.781461 | Min (0-5%)               |
+
+Overview for Data Type: object
+
+|    | Column Name   | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|---------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | Created       | object      |           6752 |               0 |             0        | No Missing Values        |
+|  1 | Source        | object      |             25 |              17 |             0.229049 | Min (0-5%)               |
+|  2 | Mobile        | object      |            486 |            1810 |            24.387    | High (20-50%)            |
+|  3 | EMAIL         | object      |            883 |               0 |             0        | No Missing Values        |
+|  4 | Sales_Agent   | object      |             12 |              23 |             0.30989  | Min (0-5%)               |
+|  5 | Location      | object      |             17 |              58 |             0.781461 | Min (0-5%)               |
+|  6 | Delivery_Mode | object      |              5 |               0 |             0        | No Missing Values        |
+|  7 | Status        | object      |             11 |               0 |             0        | No Missing Values        |

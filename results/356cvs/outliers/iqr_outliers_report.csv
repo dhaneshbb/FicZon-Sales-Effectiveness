@@ -1,0 +1,2 @@
+Column,Q1,Q3,IQR_Range,Lower_Bound,Upper_Bound,Total Distinct Count,Outlier Distinct Count,Outliers with val count,Unique Outliers
+Product_ID,12.0,19.0,7.0,1.5,29.5,29,2,"{1.0: 105, 0.0: 2}","1.0, 0.0"

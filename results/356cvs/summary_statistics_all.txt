@@ -1,0 +1,21 @@
+Summary Statistics for All Numeric Columns:
+
+| Statistic                   |   Product_ID |
+|-----------------------------|--------------|
+| Count                       |  7364        |
+| Unique                      |    29        |
+| Mean                        |    15.9473   |
+| Std                         |     6.07294  |
+| Min                         |     0        |
+| 25%                         |    12        |
+| 50%                         |    18        |
+| 75%                         |    19        |
+| Max                         |    28        |
+| Mode                        |    18        |
+| Range                       |    28        |
+| IQR                         |     7        |
+| Variance                    |    36.8806   |
+| Skewness                    |    -0.203658 |
+| Kurtosis                    |    -0.117067 |
+| Shapiro-Wilk Test Statistic |   nan        |
+| Shapiro-Wilk Test p-value   |     1        |
