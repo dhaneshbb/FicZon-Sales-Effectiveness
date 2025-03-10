@@ -107,8 +107,8 @@ PRCL-0019/
 ##  Installation
 1. Clone repository:
    ```bash
-   git clone https://github.com/dhaneshbb/PRCL-0019-FicZon.git
-   cd PRCL-0019-FicZon
+   git clone https://github.com/dhaneshbb/FicZon-Sales-Effectiveness.git
+   cd FicZon-Sales-Effectiveness
    ```
 
 2. Install dependencies:
