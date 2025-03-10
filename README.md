@@ -118,7 +118,7 @@ PRCL-0019/
 
 3. Launch Jupyter:
    ```bash
-   jupyter notebook notebooks/ficzon.ipynb
+   jupyter notebook notebooks/PRCL-0019 Sales Effectiveness.ipynb
    ```
 
 ---
