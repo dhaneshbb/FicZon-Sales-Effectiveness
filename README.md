@@ -72,7 +72,7 @@ graph TD
 
 ---
 
-## 🏆 Results
+## Results
 ### Model Performance
 | Metric | XGBoost | Ensemble | CatBoost |
 |--------|---------|----------|----------|
