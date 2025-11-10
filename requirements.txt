@@ -2,7 +2,7 @@ chardet
 pandas
 tabulate
 IPython
-insightfulpy
+insightfulpy==0.1.7
 psutil
 joblib
 numpy

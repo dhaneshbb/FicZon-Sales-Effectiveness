@@ -1,9 +1,0 @@
-Categorical Summary:
-
-| Statistic      | Created          | Source   | Mobile   | EMAIL   | Sales_Agent   | Location        | Delivery_Mode   | Status    |
-|----------------|------------------|----------|----------|---------|---------------|-----------------|-----------------|-----------|
-| Count          | 7420             | 7420     | 7420     | 7420    | 7420          | 7420            | 7420            | 7420      |
-| Unique         | 6752             | 26       | 487      | 883     | 13            | 18              | 5               | 11        |
-| Top            | 26-09-2018 11:30 | Call     | None     | #VALUE! | Sales-Agent-4 | Other Locations | Mode-5          | Junk Lead |
-| Frequency      | 4                | 2547     | 1810     | 1699    | 1500          | 2500            | 2973            | 1536      |
-| Top Percentage | 0.05%            | 34.33%   | 24.39%   | 22.90%  | 20.22%        | 33.69%          | 40.07%          | 20.70%    |
