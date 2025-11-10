@@ -1,8 +1,8 @@
+import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 import seaborn as sns
-from scipy.stats import shapiro, kstest, skew, kurtosis
+from scipy.stats import kstest, kurtosis, shapiro, skew
 from statsmodels.stats.outliers_influence import variance_inflation_factor
 
 

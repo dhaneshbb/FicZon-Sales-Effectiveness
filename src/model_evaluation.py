@@ -1,26 +1,27 @@
 import time
+
+import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
+from sklearn.calibration import calibration_curve
 from sklearn.metrics import (
+    ConfusionMatrixDisplay,
     accuracy_score,
+    auc,
+    balanced_accuracy_score,
+    brier_score_loss,
+    cohen_kappa_score,
+    confusion_matrix,
+    f1_score,
+    log_loss,
+    matthews_corrcoef,
+    precision_recall_curve,
     precision_score,
     recall_score,
-    f1_score,
-    confusion_matrix,
-    log_loss,
-    brier_score_loss,
     roc_auc_score,
-    balanced_accuracy_score,
-    matthews_corrcoef,
-    cohen_kappa_score,
-    precision_recall_curve,
     roc_curve,
-    auc,
-    ConfusionMatrixDisplay,
 )
-from sklearn.calibration import calibration_curve
-from sklearn.model_selection import cross_val_score, StratifiedKFold
+from sklearn.model_selection import StratifiedKFold, cross_val_score
 from tabulate import tabulate
 
 

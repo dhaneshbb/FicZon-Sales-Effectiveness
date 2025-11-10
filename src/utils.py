@@ -1,6 +1,7 @@
-import psutil
-import os
 import gc
+import os
+
+import psutil
 
 
 def memory_usage():
