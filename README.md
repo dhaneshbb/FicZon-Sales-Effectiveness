@@ -27,6 +27,26 @@ See [Complete_Data_Analysis_Report.md](reports/Complete_Data_Analysis_Report.md)
 
 ## Quick Start
 
+<p align="center">
+  <img src="results/figures/thumbnails/1.png" alt="FicZon Sales Effectiveness Analysis preview 1">
+</p>
+
+<p align="center">
+  <img src="results/figures/thumbnails/2.png" alt="FicZon Sales Effectiveness Analysis preview 2">
+</p>
+
+<p align="center">
+  <img src="results/figures/thumbnails/3.png" alt="FicZon Sales Effectiveness Analysis preview 3">
+</p>
+
+<p align="center">
+  <img src="results/figures/thumbnails/4.png" alt="FicZon Sales Effectiveness Analysis preview 4">
+</p>
+
+<p align="center">
+  <img src="results/figures/thumbnails/5.png" alt="FicZon Sales Effectiveness Analysis preview 5">
+</p>
+
 ### Installation
 
 ```bash
